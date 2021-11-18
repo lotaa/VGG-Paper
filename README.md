@@ -1,5 +1,8 @@
 # Implementation of VGG versions Using Keras 
  
+# Paper Link
+https://arxiv.org/abs/1409.1556
+
 # Data Set (The CIFAR-10 ) Link
 
 https://www.cs.toronto.edu/~kriz/cifar.html
