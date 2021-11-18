@@ -1,14 +1,14 @@
 # Implementation of AlexNet paper Using Keras -
 
-#Paper Link
+# Paper Link
 
 https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
 
-#Data Set (The CIFAR-10 ) Link
+# Data Set (The CIFAR-10 ) Link
 
 https://www.cs.toronto.edu/~kriz/cifar.html
 
-#Model Architecture
+# Model Architecture
 
 
 
